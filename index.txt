@@ -81,7 +81,7 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <h2>Shreya Soni</h2>
-        <p>I'm a  <span class="typed" data-typed-items="Business/Data Analyst, Machine Learning Engineer, Explorer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>I'm a  <span class="typed" data-typed-items="Business/Data Analyst, Product Analyst, Automation, Supply Chain Enthusiast, Explorer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       </div>
 
     </section><!-- /Hero Section -->
@@ -925,3 +925,4 @@
 
 
 </html>
+
