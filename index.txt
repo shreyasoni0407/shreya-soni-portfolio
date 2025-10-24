@@ -111,7 +111,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 4086904053</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Newark, CA, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span> USA</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
@@ -493,14 +493,14 @@
 
         <div class="row">
 
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4 text-center" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Sumary</h3>
 
             <div class="resume-item pb-0">
               <h4>Shreya Soni</h4>
               <p><em>Passionate about using data, automation, and AI to simplify processes and drive impact. Skilled in SQL, Power BI, Tableau, and ERP systems, I build dashboards and workflows that improve accuracy, save time, and help teams make smarter decisions.</em></p>
               <ul>
-                <li>Newark, CA, 94560</li>
+                <li>USA</li>
                 <li>(408) 690-4053</li>
                 <li>shreya04soni@gmail.com</li>
               </ul>
@@ -925,4 +925,5 @@
 
 
 </html>
+
 
